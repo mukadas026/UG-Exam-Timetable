@@ -1,0 +1,147 @@
+:root{
+
+}
+body, *{
+    scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#main{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: 100vh;
+    scroll-behavior: smooth;
+    background: black;
+}
+
+#welcome{
+    grid-row: 1;
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: black; */
+    color: white;
+}
+.content{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+#heading{
+    grid-row: 1;
+    font-size: 500%;
+}
+#instruction{
+    grid-row: 2;
+    font-size: 300%;
+}
+.btn{
+    grid-row: 3;
+    all:unset;
+    display: block;
+    height: 3rem;
+    width: 8rem;
+    line-height: 2.9rem;
+    margin: auto;
+    text-align: center;
+    color: rgb(85, 85, 85);
+    background: cyan;
+    border-radius: 1rem;
+    transition: color .35s, background .35s;
+    font-size: 150%;
+}
+.btn:hover{
+    cursor: pointer;
+    color: white;
+    background: rgb(77, 77, 77);
+    
+}
+#search{
+    grid-row: 2;
+    color: white;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    display:grid;
+    grid-template-rows: 6fr 6fr;
+    grid-gap: 0rem;
+}
+#search .content{
+    grid-template-rows: 1fr 1fr;
+}
+#field{
+    grid-gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#search-box{
+    display: block;
+    width: 25rem;
+    height: 3rem;
+    margin: auto;
+    border-radius: 2rem;
+    font-size: 180%;
+    padding-left: 1rem;
+    text-align: center;
+    grid-row: 1;
+}
+#btn{
+    grid-row: 2;
+}
+
+.output{
+    text-align: center;
+}
+.data{
+    margin: auto;
+    width: 40rem;
+    height: 3.5rem;
+    border-bottom: .25rem solid white;
+}
+
+.fade{
+    animation: fade-in 1s linear forwards;
+}
+
+@keyframes fade-in{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+@media(max-width: 500px){
+    #main{
+        all: unset;
+    }
+    #welcome{
+        all: unset;
+    }
+    .content{
+        all: unset;
+    }
+    #heading{
+        all: unset;
+    }
+    #instruction{
+        all: unset;
+    }
+    .btn{
+        
+    }
+    #search{
+        all: unset
+    }
+}
+
