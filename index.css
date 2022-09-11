@@ -6,6 +6,8 @@ body, *{
     padding: 0;
     margin: 0;
     font-size: 1.2rem;
+    background: black;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -15,7 +17,7 @@ body, *{
     grid-template-columns: 1fr;
     grid-auto-rows: 100vh;
     scroll-behavior: smooth;
-    background: black;
+    
 }
 
 #welcome{
@@ -26,7 +28,7 @@ body, *{
     justify-content: center;
     align-items: center;
     /* background: black; */
-    color: white;
+    /* color: white; */
 }
 .content{
     text-align: center;
@@ -107,6 +109,14 @@ body, *{
     height: 3.5rem;
     border-bottom: .25rem solid white;
 }
+.data h1{
+    width: fit-content;
+    margin: auto;
+    /* border: .21rem solid white; */
+    border-top: transparent;
+    border-radius: 0.31rem;
+    transform: rotateX(-40deg);
+}
 
 .fade{
     animation: fade-in 1s linear forwards;
@@ -124,24 +134,68 @@ body, *{
 @media(max-width: 500px){
     #main{
         all: unset;
+        text-align: center;
     }
     #welcome{
         all: unset;
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr;
+
     }
     .content{
         all: unset;
+        grid-row: 2;
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr;
     }
     #heading{
         all: unset;
+        font-size: 300%;
+        font-weight: 900;
+        display: block;
+        grid-row: 1;
     }
     #instruction{
         all: unset;
+        font-size: 130%;
+        grid-row: 2;
     }
     .btn{
-        
+        grid-row: 3;
     }
     #search{
-        all: unset
+        all: unset;
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr 1fr 8fr;
+        grid-template-columns: 1fr;
+    }
+    #search .content{
+        grid-row: 2;
+        width: fit-content;
+        margin: auto;
+        
+    }
+    #field{
+        /* margin-top: 5rem; */
+    }
+    #search-box{
+        width: 20rem;
+        height: 2.5rem;
+        background: white;
+        color: black;
+        border-radius: .751rem;
+        outline: none;
+
+
+    }
+    .output{
+        grid-row: 3;
+    }
+    .data{
+        width: 100vw;
+        height: 4rem;
     }
 }
 

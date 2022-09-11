@@ -27,7 +27,7 @@ fetch('./timetable.json')
       if(obj.hasOwnProperty('Time')){
         time = obj['Time'];
       }
-      if(String(obj.Code).toLowerCase() === String(search.value).toLowerCase()){
+      if(String(obj.Code).toLowerCase().includes(String(search.value).toLowerCase())){
 
           tdata[0].innerHTML = obj.Name;
           tdata[1].innerHTML = date;
