@@ -96,13 +96,7 @@
      "ACC": 213,
      "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
     },
-    {
-     "Code": "SOCI346",
-     "Name": "MEDICAL SOCIOLOGY",
-     "MAIN": 21,
-     "ACC": 1,
-     "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
-    },
+    
     {
      "Code": "MATH358",
      "Name": "COMPUTATIONAL MATHEMATICS I",
@@ -136,13 +130,6 @@
      "Name": "ASPECT OF ANCIENT ARABIC LITERATURE",
      "MAIN": 12,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
-    },
-    {
-     "Code": "ARCH422",
-     "Name": "POST-FIELD LABORATORY ANALYSIS",
-     "MAIN": 166,
-     "ACC": 28,
      "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
     },
     {
@@ -410,24 +397,10 @@
     },
     {
      "Time": "3:30 PM",
-     "Code": "UGRC120",
-     "Name": "NUMERACY SKILLS",
-     "MAIN": 70,
-     "ACC": 21,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "UGRC135",
      "Name": "UNDERSTANDING HUMAN SOCIETIES:HUMN BEHV &amp; SOC",
      "MAIN": 38,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "UGRC160",
-     "Name": "INTRODUCTION TO LITERATURE",
-     "MAIN": 36,
-     "ACC": 13,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
@@ -499,39 +472,12 @@
      "ACC": "ACC",
      "Mode": "Mode"
     },
+    
     {
      "Time": "7:30 AM",
-     "Code": "BAHS102",
-     "Name": "HUMAN ANATOMY",
-     "MAIN": 347,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "MAFS110",
      "Name": "ACQUATIC RESOURCES FOR FOOD AND LIVELIHOODS",
      "MAIN": 220,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "UGBS206",
-     "Name": "COMMERCIAL LAW II",
-     "MAIN": 1607,
-     "ACC": 1203,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "SOWK212",
-     "Name": "PHILOSOPHY OF SOCIAL WORK",
-     "MAIN": 507,
-     "ACC": 43,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "FOSC304",
-     "Name": "UNIT OPERATIONS IN FOOD PROCESSING II",
-     "MAIN": 107,
      "ACC": 0,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
@@ -652,6 +598,13 @@
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
+        "Code": "CSIT306",
+        "Name": "IT RESOURCE PLANNING",
+        "MAIN": 347,
+        "ACC": 0,
+        "Mode": "ONSITE\/ONLINE USING SAKAI"
+       },
+    {
      "Code": "PESS102",
      "Name": "SPORT IN THE MAKING OF THE MODERN WORLD II",
      "MAIN": 582,
@@ -659,11 +612,18 @@
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
+        "Code": "CSIT302",
+        "Name": "DATA COMMUNICATIONS",
+        "MAIN": 582,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
+    {
      "Code": "DCIT206",
      "Name": "SYSTEMS ADMINISTRATION",
      "MAIN": 336,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+     "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
      "Code": "MIDW206",
@@ -831,20 +791,6 @@
     },
     {
      "Time": "3:30 PM",
-     "Code": "CHIN104",
-     "Name": "ELEMENTARY CHINESE GRAMMAR II",
-     "MAIN": 366,
-     "ACC": 0,
-     "Mode": "ONLINE\/ONSITE USING SAKAI"
-    },
-    {
-     "Code": "ARAB104",
-     "Name": "ELEMENTARY ARABIC GRAMMAR II",
-     "MAIN": 124,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "DIET204",
      "Name": "NUTRITIONAL BIOCHEMISTRY",
      "MAIN": 24,
@@ -1224,13 +1170,6 @@
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
-     "Code": "PHIL306",
-     "Name": "EMPIRICISM",
-     "MAIN": 98,
-     "ACC": 32,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "TEJS306",
      "Name": "TECHNOLOGY LEADERSHIP AND MANAGEMENT",
      "MAIN": 46,
@@ -1329,13 +1268,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "DANS106",
-     "Name": "DANCE FORMS OF AFRICA",
-     "MAIN": 497,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "DIET202",
      "Name": "NUTRITIONAL ASSESSMENT",
      "MAIN": 22,
@@ -1420,25 +1352,11 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "BCMB406\/416",
-     "Name": "MOLECULAR GENETICS",
-     "MAIN": 1,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "EDTE418",
      "Name": "AFRICAN INDIGENOUS EDUCATION",
      "MAIN": 362,
      "ACC": 0,
      "Mode": "ONLINE\/ONSITE USING SAKAI"
-    },
-    {
-     "Code": "CSCD422",
-     "Name": "HUMAN COMPUTER INTERACTION",
-     "MAIN": 213,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
      "Code": "POLI442",
@@ -1602,13 +1520,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "FINC402",
-     "Name": "MONETARY THEORY",
-     "MAIN": 379,
-     "ACC": 401,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "FOSC402",
      "Name": "FOOD PROCESSING PLANT OPERATIONS AND SANITATI",
      "MAIN": 175,
@@ -1627,7 +1538,7 @@
      "Name": "FUNDAMENTALS OF SATELLITE COMMUNICATION",
      "MAIN": 174,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+     "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
      "Code": "LNGS406",
@@ -1844,16 +1755,16 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "POLI112",
+        "Name": "POLITICAL INSTITUTIONS",
+        "MAIN": 1101,
+        "ACC": 0,
+        "Mode": "ONSITE\/ONLINE USING SAKAI"
+    },
+    {
      "Code": "RDGY206",
      "Name": "RADIOGRAPHIC ANATOMY II",
      "MAIN": 33,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "STAT224\/204",
-     "Name": "INTRODUCTORY PROBABILITY II",
-     "MAIN": 548,
      "ACC": 0,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
@@ -1917,13 +1828,6 @@
      "Code": "FCOS404",
      "Name": "CURRENT ISSUES IN FOOD AND NUTRITION",
      "MAIN": 87,
-     "ACC": 0,
-     "Mode": "ONLINE\/ONSITE USING SAKAI"
-    },
-    {
-     "Code": "CHIN416",
-     "Name": "ADVANCED BUSINESS CHINESE II",
-     "MAIN": 177,
      "ACC": 0,
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
@@ -2370,13 +2274,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "STAT332",
-     "Name": "MULTIVARIATE DISTRIBUTIONS",
-     "MAIN": 294,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "ABCS344",
      "Name": "PUBLIC HEALTH ZOOLOGY",
      "MAIN": 1,
@@ -2647,13 +2544,6 @@
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
-     "Code": "GEOG212",
-     "Name": "GEOMORPHOLOGICAL PROCESSES AND LANDFORMS",
-     "MAIN": 880,
-     "ACC": 294,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "ACTU302",
      "Name": "INTRODUCTION TO ACTUARIAL COMPUTING",
      "MAIN": 152,
@@ -2858,7 +2748,7 @@
      "Name": "MACRO ENTERPRISE DEVELOPMENT &amp; MGT.",
      "MAIN": 85,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+     "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
      "Code": "FISH434",
@@ -2902,6 +2792,13 @@
      "ACC": 175,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
+    {
+        "Code": "STAT224\/204",
+        "Name": "INTRODUCTORY PROBABILITY II",
+        "MAIN": 548,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
     {
      "Code": "BAHS202\/SAHS204",
      "Name": "GENERAL PATHOLOGY",
@@ -2952,13 +2849,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "ECON442",
-     "Name": "ECONOMIC THEORY II",
-     "MAIN": 690,
-     "ACC": 74,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "POLI446",
      "Name": "GHANA'S FOREIGN POLICY",
      "MAIN": 369,
@@ -2990,6 +2880,13 @@
      "ACC": 0,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
+    {
+        "Code": "SPAN442",
+        "Name": "ADVANCED COURSE IN SPANISH GRAMMAR AND FUNCTION ELEMENTS IN COMMUNICATION",
+        "MAIN": 347,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
     {
      "Code": "NURS114",
      "Name": "PSYCHOLOGY FOR NURSES",
@@ -3255,13 +3152,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "FINC406",
-     "Name": "FINANCIAL MARKETS",
-     "MAIN": 332,
-     "ACC": 337,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "DANS402",
      "Name": "DANCE IN EDUCATION",
      "MAIN": 51,
@@ -3370,13 +3260,6 @@
      "Code": "CSCD426",
      "Name": "MULTIMEDIA APPLICATIONS",
      "MAIN": 19,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "MKTG406",
-     "Name": "SERVICES MARKETING",
-     "MAIN": 67,
      "ACC": 0,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
@@ -3543,11 +3426,39 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "BAHS102",
+        "Name": "HUMAN ANATOMY",
+        "MAIN": 347,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "CSCD422",
+        "Name": "HUMAN COMPUTER INTERACTION",
+        "MAIN": 213,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
+    {
      "Code": "UGRC142",
      "Name": "SCIENCE &amp; TECH IN OUR LIVES: ANIMALS AS FRIEN",
      "MAIN": 97,
      "ACC": 41,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "ARCH422",
+        "Name": "POST-FIELD LABORATORY ANALYSIS",
+        "MAIN": 166,
+        "ACC": 28,
+        "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
+       },
+    {
+        "Code": "UGBS206",
+        "Name": "COMMERCIAL LAW II",
+        "MAIN": 1607,
+        "ACC": 1203,
+        "Mode": "ONLIN\/OFFSITE USING SAKAI"
     },
     {
      "Code": "ABCS202\/BIOL202",
@@ -3950,11 +3861,18 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "SPAN332",
+        "Name": "BUSINESS SPANISH II",
+        "MAIN": 379,
+        "ACC": 401,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
+    {
      "Code": "DCIT102",
      "Name": "COMPUTER HARDWARE FUNDAMENTALS AND CIRCUS",
      "MAIN": 562,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+     "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
      "Code": "EASC104",
@@ -4110,6 +4028,13 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "PEBO206",
+        "Name": "PLANT MORPHOLOGY AND ANATOMY PRACTICALS",
+        "MAIN": 154,
+        "ACC": 0,
+        "Mode": "DEPARTMENTALLY SCHEDULED PRACTICUM"
+       },
+    {
      "Code": "OTTR202",
      "Name": "OCCUPATIONAL THERAPY FOR PHYSICAL DYSFUNCTION",
      "MAIN": 8,
@@ -4261,6 +4186,20 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "DANS106",
+        "Name": "DANCE FORMS OF AFRICA",
+        "MAIN": 497,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+       {
+        "Code": "SOWK212",
+        "Name": "PHILOSOPHY OF SOCIAL WORK",
+        "MAIN": 507,
+        "ACC": 43,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
+    {
      "Code": "FCOS102",
      "Name": "SCOPE &amp; PHILOSOPHY OF FAMILY &amp; CONSUMER SCIENCES",
      "MAIN": 233,
@@ -4398,18 +4337,18 @@
      "Mode": "ONSITE PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "FINC406",
+        "Name": "FINANCIAL MARKETS",
+        "MAIN": 332,
+        "ACC": 337,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
      "Code": "FOSC204",
      "Name": "UNIT OPERATIONS IN FOOD PROCESSING I",
      "MAIN": 183,
      "ACC": 0,
      "Mode": "ONLINE\/ONSITE USING SAKAI"
-    },
-    {
-     "Code": "PEBO206",
-     "Name": "PLANT MORPHOLOGY AND ANATOMY PRACTICALS",
-     "MAIN": 154,
-     "ACC": 0,
-     "Mode": "ONSITE PHYSICAL WITH ANSWER BOOKLET"
     },
     {
      "Code": "PSTR206",
@@ -4431,13 +4370,6 @@
      "MAIN": 14,
      "ACC": 0,
      "Mode": "ONSITE PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "MATH224",
-     "Name": "INTRODUCTORY ABSTRACT ALGEBRA",
-     "MAIN": 312,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
      "Code": "LNGS322",
@@ -4654,6 +4586,13 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "MATH224",
+        "Name": "INTRODUCTORY ABSTRACT ALGEBRA",
+        "MAIN": 312,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
      "Code": "PEBO212",
      "Name": "GENERAL MICROBIOLOGY II",
      "MAIN": 61,
@@ -4767,13 +4706,6 @@
      "Name": "BASIC PHYSIOLOGY PRACTICAL",
      "MAIN": 175,
      "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET "
-    },
-    {
-     "Code": "THEA112",
-     "Name": "BASICS OF THE LIVING THEATRE",
-     "MAIN": 936,
-     "ACC": 640,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET "
     },
     {
@@ -5125,13 +5057,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "PHYS354",
-     "Name": "SPECIAL RELATIVITY",
-     "MAIN": 39,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "MASC334",
      "Name": "NAUTICAL SCIENCE AND SEAMANSHIP",
      "MAIN": 1,
@@ -5178,6 +5103,20 @@
      "Mode": "ONSITE PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "FINC402",
+        "Name": "MONETARY THEORY",
+        "MAIN": 379,
+        "ACC": 401,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "FCOS418",
+        "Name": "MARRIAGE, FAMILY AND INTIMATE RELATIONSHIPS",
+        "MAIN": 21,
+        "ACC": 1,
+        "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
+    },
+    {
      "Code": "AGRC108",
      "Name": "GENERAL PHYSICS II",
      "MAIN": 278,
@@ -5190,13 +5129,6 @@
      "MAIN": 0,
      "ACC": 0,
      "Mode": "ONSITE PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "PHYS144",
-     "Name": "ELECTRICITY AND MAGNETISM",
-     "MAIN": 1317,
-     "ACC": 0,
-     "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
      "Code": "CHIN206",
@@ -5454,12 +5386,26 @@
      "Date": "FRIDAY, SEPTEMBER 23, 2022"
     },
     {
-     "Time": "11:30 AM",
-     "Code": "STAT112\/102",
-     "Name": "INTRODUCTION TO STATISTICS AND PROBABILITY",
-     "MAIN": 1075,
-     "ACC": 0,
-     "Mode": "ONLINE\/ONSITE USING SAKAI"
+        "Time": "11:30 AM",
+        "Code": "UGRC170",
+        "Name": "GENERAL MATHEMATICS",
+        "MAIN": 25,
+        "ACC": 2,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "SPAN336",
+        "Name": "GOLDEN AGE SPANISH GRAMMAR",
+        "MAIN": 21,
+        "ACC": 1,
+        "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
+    },
+    {
+        "Code": "PHYS354",
+        "Name": "SPECIAL RELATIVITY",
+        "MAIN": 39,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
      "Code": "PHCL202",
@@ -5641,13 +5587,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "PAHS418",
-     "Name": "FOUNDATIONS OF HEALTH PROMOTION",
-     "MAIN": 12,
-     "ACC": 193,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "SREL426",
      "Name": "THEOLOGY AND ETHICS OF THE NEW TESTAMENT",
      "MAIN": 31,
@@ -5709,15 +5648,9 @@
      "ACC": "ACC",
      "Mode": "Mode"
     },
+    
     {
      "Time": "7:30 AM",
-     "Code": "STAT112\/102",
-     "Name": "INTRODUCTION TO STATISTICS AND PROBABILITY",
-     "MAIN": 0,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "SOCI222",
      "Name": "COMPARATIVE SOCIAL INSTITUTIONS",
      "MAIN": 1002,
@@ -5743,7 +5676,7 @@
      "Name": "AFRICA IN THE ANCIENT ROMAN WORLD",
      "MAIN": 12,
      "ACC": 3,
-     "Mode": "ONLINE\/ONSITE USING SAKAI"
+     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET "
     },
     {
      "Code": "TEJS328",
@@ -5869,11 +5802,25 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
+        "Code": "STAT112\/102",
+        "Name": "INTRODUCTION TO STATISTICS AND PROBABILITY",
+        "MAIN": 0,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+       },
+    {
      "Code": "PSYC224",
      "Name": "EXPERIMENTAL PSYCHOLOGY",
      "MAIN": 861,
      "ACC": 155,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "MKTG406",
+        "Name": "SERVICES MARKETING",
+        "MAIN": 67,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
      "Code": "PEBO312",
@@ -5956,17 +5903,11 @@
      "ACC": 113,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
+    
     {
      "Code": "CHEM234",
      "Name": "ORGANIC CHEMISTRY II",
      "MAIN": 465,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
-     "Code": "PHYS242",
-     "Name": "OSCILLATIONS AND WAVES",
-     "MAIN": 68,
      "ACC": 0,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
@@ -6041,6 +5982,27 @@
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
     {
+        "Code": "SOCI346",
+        "Name": "MEDICAL SOCIOLOGY",
+        "MAIN": 21,
+        "ACC": 1,
+        "Mode": "ONSITE\/PHYSICAL WITH ANWSER BOOKLET"
+    },
+    {
+        "Code": "STAT338",
+        "Name": "DECISION THEORY",
+        "MAIN": 110,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "PESS416",
+        "Name": "ECONOMICS OF SPORTS",
+        "MAIN": 110,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
      "Code": "BCMB202",
      "Name": "CELL BIOLOGY I",
      "MAIN": 295,
@@ -6076,13 +6038,6 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "MKTG402",
-     "Name": "TOURISM MARKETING",
-     "MAIN": 58,
-     "ACC": 187,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
-    {
      "Code": "INFS426",
      "Name": "INTRODUCTION TO ADMINISTRATIVE HISTORY",
      "MAIN": 135,
@@ -6104,8 +6059,7 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Date": "SUNDAY, SEPTEMBER 25, 2022",
-     "MAIN": "`"
+     "Date": "SUNDAY, SEPTEMBER 25, 2022"
     },
     {
      "Time": "11:30 AM",
@@ -6115,6 +6069,28 @@
      "ACC": 0,
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
+    {
+        "Code": "POLI452",
+        "Name": "POLITICAL AND ECONOMIC REFORM & DEMOCRACY IN AFRICA",
+        "MAIN": 107,
+        "ACC": 0,
+        "Mode": "ONLINE\/ONSITE USING SAKAI"
+    },
+    {
+        "Code": "GPHY302",
+        "Name": "MATHEMATICS FOR GEOPHYSICS",
+        "MAIN": 107,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "FOSC304",
+        "Name": "UNIT OPERATIONS IN FOOD PROCESSING II",
+        "MAIN": 107,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    
     {
      "Code": "MATH126",
      "Name": "ALGEBRA AND GEOMETRY",
@@ -6190,12 +6166,19 @@
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
     {
-     "Code": "UGRC170",
-     "Name": "GENERAL MATHEMATICS",
-     "MAIN": 25,
-     "ACC": 2,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+        "Code": "ARAB104",
+        "Name": "ELEMENTARY ARABIC GRAMMAR II",
+        "MAIN": 124,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET "
     },
+    {
+        "Code": "CHIN104",
+        "Name": "ELEMENTARY CHINESE GRAMMAR II",
+        "MAIN": 366,
+        "ACC": 0,
+        "Mode": "ONLINE\/ONSITE USING SAKAI"
+       },
     {
      "Code": "CHEM216",
      "Name": "CHEMISTRY OF MATERIALS",
@@ -6266,13 +6249,7 @@
      "ACC": 0,
      "Mode": "ONLINE\/ONSITE USING SAKAI"
     },
-    {
-     "Code": "STAT338",
-     "Name": "DECISION THEORY",
-     "MAIN": 110,
-     "ACC": 0,
-     "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
-    },
+    
     {
      "Code": "EDTE402",
      "Name": "TEACHING MATHEMATICS WITH TECHNOLOGY",
@@ -6322,15 +6299,108 @@
      "ACC": 0,
      "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-     "Mode": 0
+        "Date": "SUNDAY, SEPTEMBER 26, 2022"
+    },
+    {
+        "Time":"7:30 AM",
+        "Code": "UGRC120",
+        "Name": "NUMERACY SKILLS",
+        "MAIN": 70,
+        "ACC": 21,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "UGRC160",
+        "Name": "INTRODUCTION TO LITERATURE",
+        "MAIN": 36,
+        "ACC": 13,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "SPAN338",
+        "Name": "TRANSLATION EXERCISES",
+        "MAIN": 36,
+        "ACC": 13,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "PHYS144",
+        "Name": "ELECTRICITY AND MAGNETISM",
+        "MAIN": 1317,
+        "ACC": 0,
+        "Mode": "ONLINE\/ONSITE USING SAKAI"
+    },
+    {
+        "Time":"11:30 AM",
+        "Code": "PHYS242",
+        "Name": "OSCILLATIONS AND WAVES",
+        "MAIN": 68,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "CHIN416",
+        "Name": "ADVANCED BUSINESS CHINESE II",
+        "MAIN": 177,
+        "ACC": 0,
+        "Mode": "ONLINE\/ONSITE USING SAKAI"
+    },
+    {
+        "Code": "STAT332",
+        "Name": "MULTIVARIATE DISTRIBUTIONS",
+        "MAIN": 294,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "PHIL306",
+        "Name": "EMPIRICISM",
+        "MAIN": 98,
+        "ACC": 32,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "PAHS418",
+        "Name": "FOUNDATIONS OF HEALTH PROMOTION",
+        "MAIN": 12,
+        "ACC": 193,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "GEOG212",
+        "Name": "GEOMORPHOLOGICAL PROCESSES AND LANDFORMS",
+        "MAIN": 880,
+        "ACC": 294,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Time":"3:30 PM",
+        "Code": "THEA112",
+        "Name": "BASICS OF THE LIVING THEATRE",
+        "MAIN": 936,
+        "ACC": 640,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET "
+    },
+    {
+        "Code": "ECON442",
+        "Name": "ECONOMIC THEORY II",
+        "MAIN": 690,
+        "ACC": 74,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "MKTG402",
+        "Name": "TOURISM MARKETING",
+        "MAIN": 58,
+        "ACC": 187,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
+    },
+    {
+        "Code": "BCMB406\/416",
+        "Name": "MOLECULAR GENETICS",
+        "MAIN": 1,
+        "ACC": 0,
+        "Mode": "ONSITE\/PHYSICAL WITH ANSWER BOOKLET"
     }
    ]

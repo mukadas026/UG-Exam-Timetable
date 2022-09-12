@@ -37,15 +37,15 @@ fetch('./timetable.json')
             
             tdata[i].classList.add('fade');
 
-            setTimeout(() => tdata[i].classList.remove('fade'),1000)
+            setTimeout(() => tdata[i].classList.remove('fade'),1000);
           }
 
-        return
+        return;
       }
     })
   }
 
-  window.onload = () => {
-    alert("Disclaimer \n This version of the site does not include the changes made to the original timetable we were given");
-  }
+  // window.onload = () => {
+  //   alert("Disclaimer \n This version of the site does not include the changes made to the original timetable we were given");
+  // }
   
