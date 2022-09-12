@@ -44,4 +44,8 @@ fetch('./timetable.json')
       }
     })
   }
+
+  window.onload = () => {
+    alert("Disclaimer \n This version of the site does not include the changes made to the original timetable we were given");
+  }
   
