@@ -59,11 +59,12 @@ body, *{
     transition: color .35s, background .35s;
     font-size: 150%;
 }
+@media(min-width: 500px){
 .btn:hover{
     cursor: pointer;
     color: white;
     background: rgb(77, 77, 77);
-    
+}
 }
 #search{
     grid-row: 2;
@@ -90,11 +91,14 @@ body, *{
     width: 25rem;
     height: 3rem;
     margin: auto;
-    border-radius: 2rem;
+    border-radius: 1rem;
     font-size: 180%;
     padding-left: 1rem;
     text-align: center;
     grid-row: 1;
+    background: white;
+    color: black;
+    outline: none;
 }
 #btn{
     grid-row: 2;
@@ -158,11 +162,14 @@ body, *{
     }
     #instruction{
         all: unset;
-        font-size: 130%;
+        font-size: 120%;
         grid-row: 2;
     }
     .btn{
         grid-row: 3;
+    }
+    .btn:hover{
+        
     }
     #search{
         all: unset;
@@ -181,7 +188,8 @@ body, *{
         /* margin-top: 5rem; */
     }
     #search-box{
-        width: 20rem;
+        /* width: 20rem; */
+        width: 80%;
         height: 2.5rem;
         background: white;
         color: black;
